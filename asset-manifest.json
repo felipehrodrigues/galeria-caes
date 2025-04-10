@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/galeria-caes/static/css/main.ef529c48.css",
+    "main.js": "/galeria-caes/static/js/main.24187e5f.js",
+    "static/js/453.40c57282.chunk.js": "/galeria-caes/static/js/453.40c57282.chunk.js",
+    "static/media/logo.svg": "/galeria-caes/static/media/logo.c78d899d9ba68be62322a2f07578deb2.svg",
+    "index.html": "/galeria-caes/index.html",
+    "main.ef529c48.css.map": "/galeria-caes/static/css/main.ef529c48.css.map",
+    "main.24187e5f.js.map": "/galeria-caes/static/js/main.24187e5f.js.map",
+    "453.40c57282.chunk.js.map": "/galeria-caes/static/js/453.40c57282.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ef529c48.css",
+    "static/js/main.24187e5f.js"
+  ]
+}
